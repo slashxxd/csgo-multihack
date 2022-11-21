@@ -1,3 +1,3 @@
 # csgo-multihack
- CS:GO (v1534) Multihack 
+ CS:GO (v1534) Multihack\n
  Link to Download: https://github.com/slashxxd/csgo-multihack/releases/tag/1534
